@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/button_action_with_functional_component/static/css/main.35c56c8d.css",
+    "main.js": "/button_action_with_functional_component/static/js/main.9380d452.js",
+    "index.html": "/button_action_with_functional_component/index.html",
+    "main.35c56c8d.css.map": "/button_action_with_functional_component/static/css/main.35c56c8d.css.map",
+    "main.9380d452.js.map": "/button_action_with_functional_component/static/js/main.9380d452.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35c56c8d.css",
+    "static/js/main.9380d452.js"
+  ]
+}
